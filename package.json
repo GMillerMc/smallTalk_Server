@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^28.1.0",
-    "jest-environment-jsdom": "^28.1.0",
+    "jest": "^30.1.2",
+    "jest-environment-jsdom": "^30.1.2",
     "nodemon": "^2.0.16",
     "supertest": "^6.2.3"
   },
